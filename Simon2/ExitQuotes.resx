@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="String0" xml:space="preserve">
+    <value>Clowning around is not the same as fooling around...I am a clown, not a fool</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>Connection reset by peer...isn't he that short little mexican with the wire cutters heading your way??</value>
+  </data>
+  <data name="String10" xml:space="preserve">
+    <value>I lost my left side but I'm all right now..</value>
+  </data>
+  <data name="String11" xml:space="preserve">
+    <value>If it has tires or testicles you're going to have trouble with it</value>
+  </data>
+  <data name="String12" xml:space="preserve">
+    <value>If someone betrays you once, it is his fault; If he betrays you twice, it is your fault</value>
+  </data>
+  <data name="String13" xml:space="preserve">
+    <value>I'm not being rude. You're just insignificant</value>
+  </data>
+  <data name="String14" xml:space="preserve">
+    <value>In the midst of change realize the past is dead, and moving forward has risks. Follow your heart, be brave enough to take that risk......</value>
+  </data>
+  <data name="String15" xml:space="preserve">
+    <value>Life is a banquet and most people are starving to death</value>
+  </data>
+  <data name="String16" xml:space="preserve">
+    <value>Life is too short. Grab a quickie every chance ya get</value>
+  </data>
+  <data name="String17" xml:space="preserve">
+    <value>Life....sure beats the alternative... Lord grant me the serenity to choose a good burial place for the assholes that pissed me off</value>
+  </data>
+  <data name="String18" xml:space="preserve">
+    <value>Lord make my words as sweet as honey for tomorrow I may have to eat them</value>
+  </data>
+  <data name="String19" xml:space="preserve">
+    <value>May someone love you enough to forgive your faults, be blind to your blemishes, and tell the world about your virtues</value>
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value>Don't sweat the petty things and don't pet the sweaty things.)</value>
+  </data>
+  <data name="String20" xml:space="preserve">
+    <value>May someone love you enough to forgive your faults, be blind to your blemishes, and tell the world about your virtues</value>
+  </data>
+  <data name="String21" xml:space="preserve">
+    <value>May there always be work for your hands to do. May your purse always hold a coin or two. May the sun shine warm on your window pane. May a rainbow be certain to follow each rain. May the hand of a friend always be near you, and may God fill your heart with gladness to cheer you. . .</value>
+  </data>
+  <data name="String22" xml:space="preserve">
+    <value>Pooooooooofffffff i'm outta here.. just like a wet Dream..i'll be back</value>
+  </data>
+  <data name="String23" xml:space="preserve">
+    <value>Practice safe eating -- always use condiments</value>
+  </data>
+  <data name="String24" xml:space="preserve">
+    <value>Pride makes us do things well, but it is love, that's makes us do them to perfection.......Helen Keller</value>
+  </data>
+  <data name="String25" xml:space="preserve">
+    <value>Sex is not the answer ....Sex is the question...YES is the answer :)))</value>
+  </data>
+  <data name="String26" xml:space="preserve">
+    <value>Some cause happiness wherever they go; others whenever they go." --Oscar Wilde</value>
+  </data>
+  <data name="String27" xml:space="preserve">
+    <value>Some people come into our lives &amp; quickly go. Others, stay for a while &amp; leave footprints on our hearts &amp; we are never ever the same</value>
+  </data>
+  <data name="String28" xml:space="preserve">
+    <value>The Eyes are the Windows to the Soul</value>
+  </data>
+  <data name="String29" xml:space="preserve">
+    <value>When everything seems to be against you just remember that there is a man who has no legs and a child who has no eye sight and a lady with no more life to give as she's already gone</value>
+  </data>
+  <data name="String3" xml:space="preserve">
+    <value>Fear...is that little dark room where negatives are developed</value>
+  </data>
+  <data name="String30" xml:space="preserve">
+    <value>I do what i like when i like i am the BOSS,and my wife said ok to say this)</value>
+  </data>
+  <data name="String31" xml:space="preserve">
+    <value>Women do not snore, burp, sweat, or pass gas. Therefore them must bitch or they will blow up</value>
+  </data>
+  <data name="String32" xml:space="preserve">
+    <value>There's a light in your eyes that keeps shining... like a star that can't wait for the night</value>
+  </data>
+  <data name="String33" xml:space="preserve">
+    <value>To err is human.. but to really foul things up requires a computer</value>
+  </data>
+  <data name="String34" xml:space="preserve">
+    <value>Vacant lots and vacant minds usually become dumping grounds for a lot of rubbish</value>
+  </data>
+  <data name="String35" xml:space="preserve">
+    <value>Very funny Scottie. Now beam down my clothes!)</value>
+  </data>
+  <data name="String36" xml:space="preserve">
+    <value>Watch your thoughts for they become your words. Watch your words for they become your actions. Watch your actions for they become your habits. Watch your habits for they become your character. Watch your character, for it is your destiny</value>
+  </data>
+  <data name="String37" xml:space="preserve">
+    <value>We all take different paths in life, but no matter where we go, we take a little of each other everywhere</value>
+  </data>
+  <data name="String38" xml:space="preserve">
+    <value>We all take different paths in life, but no matter where we go, we take a little of each other everywhere</value>
+  </data>
+  <data name="String39" xml:space="preserve">
+    <value>When you love someone, say it. Say it loud. Say it right away, or the moment... just passes you by." and when you die you will never know that person needed to hear the words " I love you</value>
+  </data>
+  <data name="String4" xml:space="preserve">
+    <value>Friends leave footprints in your heart &amp; soul</value>
+  </data>
+  <data name="String40" xml:space="preserve">
+    <value>When you think you're at your limit, take another step...for tomorrow we'll step again</value>
+  </data>
+  <data name="String41" xml:space="preserve">
+    <value>Which is worse? to love and not be allowed or to not love at all?</value>
+  </data>
+  <data name="String42" xml:space="preserve">
+    <value>You know you're gonna miss me when I'm gone</value>
+  </data>
+  <data name="String43" xml:space="preserve">
+    <value>May someone love you enough to forgive your faults, be blind to your blemishes, and tell the world about your virtues.</value>
+  </data>
+  <data name="String44" xml:space="preserve">
+    <value>The happiest of people don't necessarily have the best of everything; They just make the most of everything that comes their way.</value>
+  </data>
+  <data name="String45" xml:space="preserve">
+    <value>Each Life is a flower...Singular and Beautiful...Watch where you tread...for you might step on God's finest creation...</value>
+  </data>
+  <data name="String46" xml:space="preserve">
+    <value>Don't dismiss your dreams.... to be without dreams is to be without hope.... to be without hope is to be without purpose..... ( author unknown )</value>
+  </data>
+  <data name="String47" xml:space="preserve">
+    <value>No man is worth your tears and the only one who is will never make you cry</value>
+  </data>
+  <data name="String48" xml:space="preserve">
+    <value>If you love someone, put their name in a circle, instead of a heart, because hearts can break, but circles go on forever</value>
+  </data>
+  <data name="String49" xml:space="preserve">
+    <value>Everyone hears what you say. Friends listen to what you say. Best friends listen to what you don't say</value>
+  </data>
+  <data name="String5" xml:space="preserve">
+    <value>Friendship does not abolish distance - but brings that distance to life.</value>
+  </data>
+  <data name="String50" xml:space="preserve">
+    <value>If all my friends were to jump off a bridge, I wouldn't jump with them, I'd be at the bottom to catch them</value>
+  </data>
+  <data name="String51" xml:space="preserve">
+    <value>It takes a minute to have a crush on someone, an hour to like someone</value>
+  </data>
+  <data name="String52" xml:space="preserve">
+    <value>and a day to love someone-but it takes a lifetime to forget someone.</value>
+  </data>
+  <data name="String53" xml:space="preserve">
+    <value>Let us always meet each other with a smile, for the smile is the beginning of friendship</value>
+  </data>
+  <data name="String54" xml:space="preserve">
+    <value>If love is the answer, could you please rephrase the question?</value>
+  </data>
+  <data name="String6" xml:space="preserve">
+    <value>Give me shoes and they last for a year. Give me groceries and they last for a week. Give me a song and it lasts for a lifetime</value>
+  </data>
+  <data name="String7" xml:space="preserve">
+    <value>Hanging on to resentment is like letting someone you despise live rent free in your head</value>
+  </data>
+  <data name="String8" xml:space="preserve">
+    <value>I can fix anything, I have duct tape..;-)))</value>
+  </data>
+  <data name="String9" xml:space="preserve">
+    <value>I generally avoid temptation.. unless I can't resist it</value>
+  </data>
+</root>
