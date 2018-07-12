@@ -13,7 +13,6 @@ namespace Simon2
 {
     public class Bot
     {
-        static Assembly assembly = Assembly.GetExecutingAssembly();
         static Logger log = LogManager.GetLogger("IrcChatLog");
 
         TcpClient IRCConnection = null;
